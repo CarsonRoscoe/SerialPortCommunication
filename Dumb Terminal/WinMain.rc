@@ -1,0 +1,11 @@
+#include "resource.h"
+
+MYMENU MENU
+BEGIN
+    POPUP "Connection"
+    BEGIN
+        MENUITEM "(Re)connect",                 IDM_CON
+        MENUITEM "Settings",                    IDM_SET
+    END
+    MENUITEM "&Help",                       IDM_HELP
+END
