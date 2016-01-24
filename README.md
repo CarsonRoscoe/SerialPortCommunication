@@ -1,4 +1,4 @@
-# Dumb Terminal
+# Serial Port Communication
 
 A C++ program written using Win32 API to communicate via serial port. The program emulates a dumb terminal, there is no logic or protocol being used for the transmission.
 
